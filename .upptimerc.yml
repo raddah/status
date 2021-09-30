@@ -9,21 +9,26 @@ sites:
     url: https://search.aosus.org
   - name: المعجم
     url: https://dictionary.aosus.org
-
+  - name: الاحصائيات
+    url: https://pa.aosus.org
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.aosus.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://aosus.org/uploads/default/original/2X/1/1c05852c1a606f81e6a8aa704d91a4573bc9c6f9.png
   name: حالة أسس
-  introTitle: "تاكد من حالة مجتمع أسس و مشاريعة"
+  introTitle: "تاكد من حالة مجتمع أسس و انتاجاتة"
   introMessage: سيتم مراقبة حاله موقع أسس والمجتمع والخدمات الاخرى التي نستخدمها.
   navbar:
-    - title: Status
+    - title: الحالة
       href: /
+    - title: أسس
+      href: https://aosus.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  theme: dark
+  favicon: https://aosus.org/uploads/default/optimized/2X/1/1145e2384a7d28c821de05db10c9b010a50c0f7f_2_32x32.png
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
