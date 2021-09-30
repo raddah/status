@@ -29,12 +29,12 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: dark
   favicon: https://aosus.org/uploads/default/optimized/2X/1/1145e2384a7d28c821de05db10c9b010a50c0f7f_2_32x32.png
-
 i18n:
   activeIncidents: مشاكل حالية
   allSystemsOperational: كل شيء يعمل بشكل صحيح
   incidentTitle: تفاصيل $NUMBER المشكلة
   incidentFixed: تم الحل
   incidentOngoing: جارية الان
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
